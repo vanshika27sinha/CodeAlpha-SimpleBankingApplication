@@ -4,9 +4,8 @@ It's a Simple Banking Application in Java which is an ideal project for coding b
 
 ## Features
 - [x] **Account Management**
-- [x] **New Account Creation**
-- [x] **Balance Checking**
+  - [x] **Account Creation:** Users can create new bank accounts with unique account numbers.
+  - [x] **Balance Checking:** Account holders can check their account balances at any time.
 - [x] **Transaction Handling**
-- [x] **Making Deposits**
-- [x] **Initiating Withdrawals**
-
+  - [x] **Deposits:** Users can make deposits to their accounts, which will reflect in their account balances.
+  - [x] **Withdrawals:** Account holders can initiate withdrawals from their accounts, with appropriate balance verification.
