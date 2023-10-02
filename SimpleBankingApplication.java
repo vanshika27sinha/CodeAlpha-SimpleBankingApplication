@@ -8,12 +8,12 @@ public class BANKNEW {
         Scanner sc = new Scanner(System.in);
         int option = 0;
         while (option != 4) {
-            System.out.println("welcome to the bank of java");
-            System.out.println("1.check balance");
-            System.out.println("2.deposit");
-            System.out.println("3.withdraw");
-            System.out.println("4.exit");
-            System.out.println("enter a option");
+            System.out.println("Welcome to the bank of java");
+            System.out.println("1.Check balance");
+            System.out.println("2.Deposit");
+            System.out.println("3.Withdraw");
+            System.out.println("4.Exit");
+            System.out.println("Enter a option");
             option = sc.nextInt();
             switch (option) {
                 case 1:
@@ -59,7 +59,7 @@ public class BANKNEW {
 
     }
     public static void exit(){
-        System.out.println("thankyou for banking with us have a great day");
+        System.out.println("Thankyou for banking with us have a great day");
 
     }
 
